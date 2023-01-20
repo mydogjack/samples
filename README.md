@@ -1,5 +1,5 @@
 # Technical Content Samples
-Hi, my name's Brian. Thanks for stopping by to review some of my professional writing samples. I've been writing, technically, since 2005. Below are samples of technical writing and video tutorials I have produced. 
+Hi, my name's Brian. Thanks for stopping by to review some of my professional writing samples. I've been writing, technically, since 2005. Below are samples of help topics I've written and video tutorials I've produced. 
 
 - [Writing Samples](#writing-samples)
 - [Video Samples](#video-samples)
