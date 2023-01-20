@@ -1,11 +1,11 @@
 # Technical Content Samples
-Below are samples of technical writing and video tutorials I have produced. 
+Hi, my name's Brian. Thanks for stopping by to review some of my professional writing samples. I've been writing, technically, since 2005. Below are samples of technical writing and video tutorials I have produced. 
 
 - [Writing Samples](#writing-samples)
 - [Video Samples](#video-samples)
 
 ## Writing Samples
-Thanks for stopping by to review some of my professional writing samples. These are topics I was responsible for researching, documenting, and ultimately incorporating into our Documentation team's help system. 
+These are topics I was responsible for researching, documenting, and ultimately incorporating into our Documentation team's help system. 
 
 ### End User Help Topic
 This topic titled "Communicating with a Patient's Care Team in PK Messaging" describes chat functionality available within the PatientKeeper app that allows a physician to communicate with a patient's care team. 
