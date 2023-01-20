@@ -29,7 +29,7 @@ I've included this topic because I feel it is a good example of a complicated co
 ## Video Samples
 Below you'll find a couple of examples of tutorial videos I have created. Both of these videos cover the same topic (starting a conversation using the PK Messaging module), but one was produced for the web app help system and the other was produced for the Apple (iPhone) help system. 
 
-For each video, I wrote the script with input from Product Mangement, captured the screens using Adobe Captivate, recorded the audio, and then edited and produced the output as HTML5 so it could be embedded in our help system. 
+For each video, I wrote the script with input from Product Management, captured the screens using Adobe Captivate, recorded the audio, and then edited and produced the output as HTML5 so it could be embedded in our help system. 
 
 **[Web App Video Sample](https://mydogjack.github.io/samples/pkmsg_1startconvo/)**
 
