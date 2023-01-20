@@ -26,6 +26,17 @@ I've included this topic because I feel it is a good example of a complicated co
 
 **[Admin Help sample](https://mydogjack.github.io/samples/AdminTopicSample/)**
 
+### Quick Reference Documents
+Another type of deliverable I helped create came out of end user's desire to have a printable document with details all on one page. These are referred to as Quick Reference Cards. These documents are intended to provide enough information on one page for a user to complete a task. These were produced for the Web app, Apple app, and Android app. Below are examples of a quick reference for each platform that describes a clinical note creating module (known as NoteWriter). 
+
+**[Clinical Notes on the Web App - Quick Reference](https://mydogjack.github.io/samples/qrc/notewriter_ref_card.pdf)**
+
+**[Clinical Notes on the Apple App - Quick Reference](https://mydogjack.github.io/samples/qrc/mobile_clinical_notes_apple_ref_card.pdf)**
+
+**[Clinical Notes on the Android App - Quick Reference](https://mydogjack.github.io/samples/qrc/mobile_clinical_notes_android_ref_card.pdf)**
+
+
+
 ## Video Samples
 Below you'll find a couple of examples of tutorial videos I have created. Both of these videos cover the same topic (starting a conversation using the PK Messaging module), but one was produced for the web app help system and the other was produced for the Apple (iPhone) help system. 
 
