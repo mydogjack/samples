@@ -10,7 +10,7 @@ These are topics I was responsible for researching, documenting, and ultimately 
 ### End User Help Topic
 This topic titled "Communicating with a Patient's Care Team in PK Messaging" describes chat functionality available within the PatientKeeper app that allows a physician to communicate with a patient's care team. 
 
-I've included this topic because it's a complex feature that applies to only specific types of users in a specific scenario, so it was a challenging topic to create. This functionality also depends on system configurations, which are referenced from within this topic. I worked very closely with the Product Manager and software engineer to ensure the content was accurate, and I feel like this is a good example of concise end user content. 
+I've included this topic because it's a complex feature that applies to only specific types of users in a specific scenario, so it was a challenging topic to create. This functionality also depends on system configurations, which are referenced from within this topic. I worked very closely with the Product Manager and software engineer to ensure the content was accurate, and I feel like this is a good example of concise end-user content. 
 
 *Note that I've only included the files needed to view this topic so links to other topics in the help system do not work.*
 
