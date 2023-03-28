@@ -7,7 +7,7 @@ Hi, my name's Brian. Thanks for stopping by to review some of my professional wr
 ## Writing Samples
 These are topics I was responsible for researching, documenting, and ultimately incorporating into our Documentation team's help system. 
 
-### End User Help Topic
+### End User Help Topic (healthcare IT product)
 This topic titled "Communicating with a Patient's Care Team in PK Messaging" describes chat functionality available within the PatientKeeper app that allows a physician to communicate with a patient's care team. 
 
 I've included this topic because it's a complex feature that applies to only specific types of users in a specific scenario, so it was a challenging topic to create. This functionality also depends on system configurations, which are referenced from within this topic. I worked very closely with the Product Manager and software engineer to ensure the content was accurate, and I feel like this is a good example of concise end-user content. 
@@ -17,7 +17,7 @@ I've included this topic because it's a complex feature that applies to only spe
 **[User Help sample](https://mydogjack.github.io/samples/UserTopicSample-Web/index.html)**
 
 
-### Administrator Help Topic
+### Administrator Help Topic (healthcare IT product)
 This help topic titled "MHB Care Team Integration" describes configuration settings to enable chat functionality between a physician and a patient's care team. These configuration settings enable communication between a chat module built into the PatientKeeper browser and a third-party app on another mobile device.  
 
 I've included this topic because I feel it is a good example of a complicated configuration that has been simplified and can make sense to even a novice administrator. The topic provides context and references to other pages where additional information exists. I worked very closely with the Product Manager on this topic to ensure it was accurate and easy for end users to understand. 
@@ -26,7 +26,7 @@ I've included this topic because I feel it is a good example of a complicated co
 
 **[Admin Help sample](https://mydogjack.github.io/samples/AdminTopicSample/)**
 
-### Quick Reference Documents
+### Quick Reference Documents (healthcare IT product)
 Another type of deliverable I helped create came out of end user's desire to have a printable document with details all on one page. These are referred to as Quick Reference Cards. These documents are intended to provide enough information on one page for a user to complete a task. These were produced for the Web app, Apple app, and Android app. Below are examples of a quick reference for each platform that describes a clinical note creating module (known as NoteWriter). 
 
 **[Clinical Notes on the Web App - Quick Reference](https://mydogjack.github.io/samples/qrc/notewriter_ref_card.pdf)**
@@ -35,6 +35,10 @@ Another type of deliverable I helped create came out of end user's desire to hav
 
 **[Clinical Notes on the Android App - Quick Reference](https://mydogjack.github.io/samples/qrc/mobile_clinical_notes_android_ref_card.pdf)**
 
+### End User Guide (smart building integration product)
+This user guide was created to describe a a product that integrates with systems inside a smart building. Using the product, tenants could call an elevator, gain access to areas where they are allowed access, control their local tempatture, and more. 
+
+**[Tenant User Guide sample](https://mydogjack.github.io/samples/cohesion/QuickStartGuide_Tenant.pdf)**
 
 
 ## Video Samples
