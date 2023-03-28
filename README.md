@@ -7,7 +7,9 @@ Hi, my name's Brian. Thanks for stopping by to review some of my professional wr
 ## Writing Samples
 Below are some samples of topics I've been resposible for authoring. The majority are about healthcare IT products, but I've also sprinkled in a Tenant Guide for a smart building product. 
 
-Jump to: [End User Help Topic (healthcare IT product)](#end-user-help-topic-healthcare-it-product) **|** [Administrator Help Topic (healthcare IT product)](#administrator-help-topic-healthcare-it-product) **|** [Quick Reference Documents (healthcare IT product)](#quick-reference-documents-healthcare-it-product) **|** [End User Guide (smart building integration product)](#end-user-guide-smart-building-integration-product)
+Jump to: 
+
+[End User Help Topic (healthcare IT product)](#end-user-help-topic-healthcare-it-product) | [Administrator Help Topic (healthcare IT product)](#administrator-help-topic-healthcare-it-product) | [Quick Reference Documents (healthcare IT product)](#quick-reference-documents-healthcare-it-product) | [End User Guide (smart building integration product)](#end-user-guide-smart-building-integration-product)
 
 
 ### End User Help Topic (healthcare IT product)
