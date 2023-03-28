@@ -1,11 +1,17 @@
 # Technical Content Samples
-Hi, my name's Brian. Thanks for stopping by to review some of my professional writing samples. I've been writing, technically, since 2005. Below are samples of help topics I've written and video tutorials I've produced. 
+Hi, my name's Brian. Thanks for stopping by to review some of my professional writing samples. I've been writing, technically, since 2005. I've worked on a number of technical writing projects, from healthcare IT products, to home design software, to a smart building product. I’ve even delivered pizza (which, ironically, was the topic of my first technical writing project while in college). Below are samples of help topics I've written and video tutorials I've produced. 
 
 - [Writing Samples](#writing-samples)
 - [Video Samples](#video-samples)
 
 ## Writing Samples
-These are topics I was responsible for researching, documenting, and ultimately incorporating into our Documentation team's help system. 
+Below are some samples of topics I've been resposible for authoring. The majority are about healthcare IT products, but I've also sprinkled in a Tenant Guide for a smart building product. 
+
+  - [End User Help Topic (healthcare IT product)](#end-user-help-topic-healthcare-it-product)
+  - [Administrator Help Topic (healthcare IT product)](#administrator-help-topic-healthcare-it-product)
+  - [Quick Reference Documents (healthcare IT product)](#quick-reference-documents-healthcare-it-product)
+  - [End User Guide (smart building integration product)](#end-user-guide-smart-building-integration-product)
+
 
 ### End User Help Topic (healthcare IT product)
 This topic titled "Communicating with a Patient's Care Team in PK Messaging" describes chat functionality available within the PatientKeeper app that allows a physician to communicate with a patient's care team. 
