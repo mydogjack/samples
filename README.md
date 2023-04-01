@@ -4,6 +4,12 @@ Hi, my name's Brian. Thanks for stopping by to review some of my professional wr
 - [Writing Samples](#writing-samples)
 - [Video Samples](#video-samples)
 
+
+I've also experimented with some creative writing - I've self published four children's books written by my sons. You can see this work here: **[Herald and Sons Books](http://www.heraldandsons.com)**.
+
+These projects involved a lot of organization, preparation, and overall project management. They involved working with an illustrator (vetting and hiring the right person, providing detailed sceen descriptions and approving sketches and drafts), formatting and layout for the print and e-books, working with a narrator to produce the audio, and then marketing to position each story properly. Finally, coordinating with the various retailers for selling the audio, e-book, and print versions. 
+
+
 ## Writing Samples
 Below are some samples of topics I've been resposible for authoring. The majority are about healthcare IT products, but I've also sprinkled in a Tenant Guide for a smart building product. 
 
