@@ -48,6 +48,12 @@ Another type of deliverable I helped create came out of end user's desire to hav
 
 **[Admission Medication Reconciliation on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/admission_med_rec_ref_card.pdf)**
 
+**[Medication Reconciliation for Emergency Department on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/med_rec_for_ED_ref_card.pdf)**
+
+**[Discharge Medication Reconciliation on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/discharge_med_rec_ref_card.pdf)**
+
+**[Discharge Medication Reconciliation with Electronic Prescriptions on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/discharge_med_rec_erx_ref_card.pdf)**
+
 
 ### End User Guide (smart building integration product)
 This user guide was created to describe a a product that integrates with systems inside a smart building. Using the product, tenants could call an elevator, gain access to areas where they are allowed access, control their local temperature, and more.
