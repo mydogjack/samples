@@ -38,13 +38,16 @@ I've included this topic because I feel it is a good example of a complicated co
 **[Admin Help sample](https://mydogjack.github.io/samples/AdminTopicSample/)**
 
 ### Quick Reference Documents (healthcare IT product)
-Another type of deliverable I helped create came out of end user's desire to have a printable document with details all on one page. These are referred to as Quick Reference Cards. These documents are intended to provide enough information on one page for a user to complete a task. These were produced for the Web app, Apple app, and Android app. Below are examples of a quick reference for each platform that describes a clinical note creating module (known as NoteWriter). 
+Another type of deliverable I helped create came out of end user's desire to have a printable document with details all on one page. These are referred to as Quick Reference Cards. These documents are intended to provide enough information on one page for a user to complete a task. These were produced for the Web app, Apple app, and Android app. Below are examples of a quick reference for each platform that describes a clinical note creating module (known as NoteWriter). I've also include some Quick References for other modules and workflows. 
 
 **[Clinical Notes on the Web App - Quick Reference](https://mydogjack.github.io/samples/qrc/notewriter_ref_card.pdf)**
 
 **[Clinical Notes on the Apple App - Quick Reference](https://mydogjack.github.io/samples/qrc/mobile_clinical_notes_apple_ref_card.pdf)**
 
 **[Clinical Notes on the Android App - Quick Reference](https://mydogjack.github.io/samples/qrc/mobile_clinical_notes_android_ref_card.pdf)**
+
+**[Admission Medication Reconciliation on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/admission_med_rec_ref_card.pdf)**
+
 
 ### End User Guide (smart building integration product)
 This user guide was created to describe a a product that integrates with systems inside a smart building. Using the product, tenants could call an elevator, gain access to areas where they are allowed access, control their local temperature, and more.
