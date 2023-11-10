@@ -73,5 +73,5 @@ For each video, I wrote the script with input from Product Management, captured 
 
 ### NoteWriter on Android Videos
 Here is a sample of videos for the NoteWriter module on Android devices.
-**[NoteWriter on Android - Tour](https://mydogjack.github.io/samples/android_nw_tour
-/)**
+
+**[NoteWriter on Android - Tour](https://mydogjack.github.io/samples/android_nw_tour/)**
