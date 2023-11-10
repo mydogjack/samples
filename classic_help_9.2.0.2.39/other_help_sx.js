@@ -1,0 +1,52 @@
+var info =
+{
+"pages":
+[
+["other_help\u002Fother_help.1.1.html","How to Get Other Help","We provide direct links to other help systems in the Table of Contents. Just click an item in the Table of Contents to launch another help system. The other help system will open in a new browser tab so that you can then easily switch back and forth between help systems. l Android Help: This help sy...","other_help\u002Fpairs\u002Fpair1.js","content-page","edFDEYm5LT4"]
+,["other_help\u002Fother_help.1.2.html","Launch Android Help","","other_help\u002Fpairs\u002Fpair2.js","content-page","edFDEYm5LT4"]
+,["other_help\u002Fother_help.1.3.html","Launch Apple Help","","other_help\u002Fpairs\u002Fpair3.js","content-page","edFDEYm5LT4"]
+],
+"words":
+{
+"help":[0,108,1,100,2,100]
+,"provide":[0,1]
+,"direct":[0,1]
+,"links":[0,1]
+,"systems":[0,2]
+,"table":[0,2]
+,"contents":[0,2]
+,"just":[0,1]
+,"click":[0,1]
+,"item":[0,1]
+,"launch":[0,1,1,100,2,100]
+,"system":[0,4]
+,"open":[0,1]
+,"new":[0,1]
+,"browser":[0,1]
+,"tab":[0,1]
+,"easily":[0,1]
+,"switch":[0,1]
+,"back":[0,1]
+,"forth":[0,1]
+,"android":[0,2,1,100]
+,"covers":[0,2]
+,"daily":[0,2]
+,"usage":[0,2]
+,"latest":[0,2]
+,"version":[0,2]
+,"patientkeeper":[0,2]
+,"application":[0,2]
+,"used":[0,2]
+,"providers":[0,2]
+,"apple":[0,2,2,100]
+},
+"synonyms":
+{
+"movie":["video","tutorial"]
+,"tutorial":["video"]
+,"video":["tutorial"]
+,"setting":["preference"]
+,"preference":["setting"]
+}
+}
+;Search.control.advance(info);
