@@ -72,6 +72,6 @@ For each video, I wrote the script with input from Product Management, captured 
 **[Apple App Video Sample](https://mydogjack.github.io/samples/apple_pkmsg_startconvo/)**
 
 ### NoteWriter on Android Videos
-Here is a sample of videos for the NoteWriter module on Android devices.
+Here is a video sample for the NoteWriter module on Android devices.
 
 **[NoteWriter on Android - Tour](https://mydogjack.github.io/samples/android_nw_tour/)**
