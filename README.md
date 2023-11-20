@@ -1,4 +1,4 @@
-# Technical Content Samples
+# Technical and Instructional Content Samples
 Hi, my name's Brian. Thanks for stopping by to review some of my professional writing samples. I've been writing, technically, since 2005. I've worked on a number of technical writing projects, from healthcare IT products, to home design software, to a smart building product. I’ve even delivered pizza (which, ironically, was the topic of my first technical writing project while in college). Below are samples of help topics I've written and video tutorials I've produced. 
 
 - [Writing Samples](#writing-samples)
@@ -12,6 +12,11 @@ These projects involved a lot of organization, preparation, and overall project 
 
 ## Writing Samples
 Below are some samples of topics I've been resposible for authoring. The majority are about healthcare IT products, but I've also sprinkled in a Tenant Guide for a smart building product. 
+
+**Jump To:**
+ - [End User Help Topic (healthcare IT product)](#item-one)
+ - [Administrator Help Topic (healthcare IT product)](#item-two)
+ - [Quick Reference Documents (healthcare IT product)](#item-three)
 
 Jump to: 
 
