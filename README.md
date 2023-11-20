@@ -13,11 +13,6 @@ These projects involved a lot of organization, preparation, and overall project 
 ## Writing Samples
 Below are some samples of topics I've been resposible for authoring. The majority are about healthcare IT products, but I've also sprinkled in a Tenant Guide for a smart building product. 
 
-**Jump To:**
- - [End User Help Topic (healthcare IT product)](#item-one)
- - [Administrator Help Topic (healthcare IT product)](#item-two)
- - [Quick Reference Documents (healthcare IT product)](#item-three)
-
 Jump to: 
 
 [End User Help Topic (healthcare IT product)](#end-user-help-topic-healthcare-it-product) | [Administrator Help Topic (healthcare IT product)](#administrator-help-topic-healthcare-it-product) | [Quick Reference Documents (healthcare IT product)](#quick-reference-documents-healthcare-it-product) | [End User Guide (smart building integration product)](#end-user-guide-smart-building-integration-product)
