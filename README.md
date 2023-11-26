@@ -1,5 +1,5 @@
 # Technical and Instructional Content Samples
-![image](img/AuthorPortraitCopy.jpg)
+![image](img/AuthorPortraitCopy.jpg =250x)
 <img src="AuthorPortraitCopy.jpg" alt="image" width="200"/>
 Hi, my name's Brian. Thanks for stopping by to review some of my professional writing samples. I've been writing, technically, since 2005. I've worked on a number of technical writing projects, from healthcare IT products, to home design software, to a smart building product. I’ve even delivered pizza (which, ironically, was the topic of my first technical writing project while in college). Below are samples of help topics I've written and video tutorials I've produced. 
 
