@@ -67,6 +67,14 @@ Another type of deliverable I created was designed to describe the value proposi
  📄 **[IAQ Program Overview sample](https://mydogjack.github.io/samples/cohesion/IAQ_Implementation_Process_Information.pdf)**
 
 
+### Internal Process Playbook (smart building integration product)
+This deliverable was part of an effort to document a number of internal implementation and support processes and compile a playbook, which could be referenced during all phases of customer support. Below are samples from the Essentials portion (information that applied to all clients regardless of the module(s) they purchased) and Access Control portion (which describes technical functionality and integration information for the Access Control module). 
+
+ 📄 **[Essesntial Playbook sample](https://mydogjack.github.io/samples/cohesion/EssentialsPlaybook_SAMPLE.pdf)**
+
+ 📄 **[Access Control Playbook sample](https://mydogjack.github.io/samples/cohesion/AccessControlPlaybook_SAMPLE.pdf)**
+
+
 ## Video Samples
 Below you'll find examples of tutorial videos I have created. For each video, I wrote the script with input from Product Management, captured the screens using Adobe Captivate, recorded the audio, and then edited and produced the output as HTML5 so it could be embedded in a hosted online help system. 
 
