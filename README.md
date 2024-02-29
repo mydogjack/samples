@@ -40,31 +40,31 @@ I've included this topic because I feel it is a good example of a complicated co
 ### Quick Reference Documents (healthcare IT product)
 Another type of deliverable I helped create came out of end user's desire to have a printable document with details all on one page. These are referred to as Quick Reference Cards. These documents are intended to provide enough information on one page for a user to complete a task. These were produced for the Web app, Apple app, and Android app. Below are examples of a quick reference for each platform that describes a clinical note creating module (known as NoteWriter). I've also included some Quick References for other clinical modules and workflows. I created all of these from the Documentation team's standard blank template.
 
-**[Clinical Notes on the Web App - Quick Reference](https://mydogjack.github.io/samples/qrc/notewriter_ref_card.pdf)**
+📄**[Clinical Notes on the Web App - Quick Reference](https://mydogjack.github.io/samples/qrc/notewriter_ref_card.pdf)**
 
-**[Clinical Notes on the Apple App - Quick Reference](https://mydogjack.github.io/samples/qrc/mobile_clinical_notes_apple_ref_card.pdf)**
+📄**[Clinical Notes on the Apple App - Quick Reference](https://mydogjack.github.io/samples/qrc/mobile_clinical_notes_apple_ref_card.pdf)**
 
-**[Clinical Notes on the Android App - Quick Reference](https://mydogjack.github.io/samples/qrc/mobile_clinical_notes_android_ref_card.pdf)**
+📄**[Clinical Notes on the Android App - Quick Reference](https://mydogjack.github.io/samples/qrc/mobile_clinical_notes_android_ref_card.pdf)**
 
-**[Admission Medication Reconciliation on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/admission_med_rec_ref_card.pdf)**
+📄**[Admission Medication Reconciliation on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/admission_med_rec_ref_card.pdf)**
 
-**[Medication Reconciliation for Emergency Department on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/med_rec_for_ED_ref_card.pdf)**
+📄**[Medication Reconciliation for Emergency Department on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/med_rec_for_ED_ref_card.pdf)**
 
-**[Discharge Medication Reconciliation on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/discharge_med_rec_ref_card.pdf)**
+📄**[Discharge Medication Reconciliation on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/discharge_med_rec_ref_card.pdf)**
 
-**[Discharge Medication Reconciliation with Electronic Prescriptions on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/discharge_med_rec_erx_ref_card.pdf)**
+📄**[Discharge Medication Reconciliation with Electronic Prescriptions on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/discharge_med_rec_erx_ref_card.pdf)**
 
 
 ### End User Guide (smart building integration product)
 This user guide was created to describe a a product that integrates with systems inside a smart building. Using the product, tenants could call an elevator, gain access to areas where they have permissions, control their local temperature, and more.
 To create this guide, I designed a reusable template, and incorporated both web-based and mobile functionality. Two other variations of this guide were created for additional roles with more access and control over administering the system.  
 
-  **[Tenant User Guide sample](https://mydogjack.github.io/samples/cohesion/QuickStartGuide_Tenant.pdf)**
+📄**[Tenant User Guide sample](https://mydogjack.github.io/samples/cohesion/QuickStartGuide_Tenant.pdf)**
 
 
 Another type of deliverable I created was designed to describe the value proposition and implementation process of one the most used modules within the app: Indoor Air Quality.
 
-  **[IAQ Program Overview sample](https://mydogjack.github.io/samples/cohesion/IAQ_Implementation_Process_Information.pdf)**
+📄**[IAQ Program Overview sample](https://mydogjack.github.io/samples/cohesion/IAQ_Implementation_Process_Information.pdf)**
 
 
 ## Video Samples
