@@ -25,7 +25,7 @@ I've included this topic because it's a complex feature that applies to only spe
 
 *Note that I've only included the files needed to view this topic so links to other topics in the help system do not work.*
 
-**[User Help sample](https://mydogjack.github.io/samples/UserTopicSample-Web/index.html)**
+ 📄 **[User Help sample](https://mydogjack.github.io/samples/UserTopicSample-Web/index.html)**
 
 
 ### Administrator Help Topic (healthcare IT product)
@@ -35,36 +35,36 @@ I've included this topic because I feel it is a good example of a complicated co
 
 *Note that I've only included the files needed to view this topic so links to other topics in the help system do not work.*
 
-**[Admin Help sample](https://mydogjack.github.io/samples/AdminTopicSample/)**
+ 📄 **[Admin Help sample](https://mydogjack.github.io/samples/AdminTopicSample/)**
 
 ### Quick Reference Documents (healthcare IT product)
 Another type of deliverable I helped create came out of end user's desire to have a printable document with details all on one page. These are referred to as Quick Reference Cards. These documents are intended to provide enough information on one page for a user to complete a task. These were produced for the Web app, Apple app, and Android app. Below are examples of a quick reference for each platform that describes a clinical note creating module (known as NoteWriter). I've also included some Quick References for other clinical modules and workflows. I created all of these from the Documentation team's standard blank template.
 
-📄**[Clinical Notes on the Web App - Quick Reference](https://mydogjack.github.io/samples/qrc/notewriter_ref_card.pdf)**
+ 📄 **[Clinical Notes on the Web App - Quick Reference](https://mydogjack.github.io/samples/qrc/notewriter_ref_card.pdf)**
 
-📄**[Clinical Notes on the Apple App - Quick Reference](https://mydogjack.github.io/samples/qrc/mobile_clinical_notes_apple_ref_card.pdf)**
+ 📄 **[Clinical Notes on the Apple App - Quick Reference](https://mydogjack.github.io/samples/qrc/mobile_clinical_notes_apple_ref_card.pdf)**
 
-📄**[Clinical Notes on the Android App - Quick Reference](https://mydogjack.github.io/samples/qrc/mobile_clinical_notes_android_ref_card.pdf)**
+ 📄 **[Clinical Notes on the Android App - Quick Reference](https://mydogjack.github.io/samples/qrc/mobile_clinical_notes_android_ref_card.pdf)**
 
-📄**[Admission Medication Reconciliation on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/admission_med_rec_ref_card.pdf)**
+ 📄 **[Admission Medication Reconciliation on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/admission_med_rec_ref_card.pdf)**
 
-📄**[Medication Reconciliation for Emergency Department on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/med_rec_for_ED_ref_card.pdf)**
+ 📄 **[Medication Reconciliation for Emergency Department on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/med_rec_for_ED_ref_card.pdf)**
 
-📄**[Discharge Medication Reconciliation on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/discharge_med_rec_ref_card.pdf)**
+ 📄 **[Discharge Medication Reconciliation on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/discharge_med_rec_ref_card.pdf)**
 
-📄**[Discharge Medication Reconciliation with Electronic Prescriptions on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/discharge_med_rec_erx_ref_card.pdf)**
+ 📄 **[Discharge Medication Reconciliation with Electronic Prescriptions on the Web - Quick Reference](https://mydogjack.github.io/samples/qrc/discharge_med_rec_erx_ref_card.pdf)**
 
 
 ### End User Guide (smart building integration product)
 This user guide was created to describe a a product that integrates with systems inside a smart building. Using the product, tenants could call an elevator, gain access to areas where they have permissions, control their local temperature, and more.
 To create this guide, I designed a reusable template, and incorporated both web-based and mobile functionality. Two other variations of this guide were created for additional roles with more access and control over administering the system.  
 
-📄**[Tenant User Guide sample](https://mydogjack.github.io/samples/cohesion/QuickStartGuide_Tenant.pdf)**
+ 📄 **[Tenant User Guide sample](https://mydogjack.github.io/samples/cohesion/QuickStartGuide_Tenant.pdf)**
 
 
 Another type of deliverable I created was designed to describe the value proposition and implementation process of one the most used modules within the app: Indoor Air Quality.
 
-📄**[IAQ Program Overview sample](https://mydogjack.github.io/samples/cohesion/IAQ_Implementation_Process_Information.pdf)**
+ 📄 **[IAQ Program Overview sample](https://mydogjack.github.io/samples/cohesion/IAQ_Implementation_Process_Information.pdf)**
 
 
 ## Video Samples
@@ -72,11 +72,11 @@ Below you'll find a couple of examples of tutorial videos I have created. Both o
 
 For each video, I wrote the script with input from Product Management, captured the screens using Adobe Captivate, recorded the audio, and then edited and produced the output as HTML5 so it could be embedded in our help system. 
 
-**[Web App Video Sample](https://mydogjack.github.io/samples/pkmsg_1startconvo/)**
+ 📺 **[Web App Video Sample](https://mydogjack.github.io/samples/pkmsg_1startconvo/)**
 
-**[Apple App Video Sample](https://mydogjack.github.io/samples/apple_pkmsg_startconvo/)**
+ 📺 **[Apple App Video Sample](https://mydogjack.github.io/samples/apple_pkmsg_startconvo/)**
 
 ### NoteWriter on Android Videos
 Here is a video sample for the NoteWriter module on Android devices.
 
-**[NoteWriter on Android - Tour](https://mydogjack.github.io/samples/android_nw_tour/)**
+ 📺 **[NoteWriter on Android - Tour](https://mydogjack.github.io/samples/android_nw_tour/)**
