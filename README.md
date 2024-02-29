@@ -70,7 +70,7 @@ Another type of deliverable I created was designed to describe the value proposi
 ### Internal Process Playbook (smart building integration product)
 This deliverable was part of an effort to document a number of internal implementation and support processes and compile a playbook, which could be referenced during all phases of customer support. Below are samples from the Essentials portion (information that applied to all clients regardless of the module(s) they purchased) and Access Control portion (which describes technical functionality and integration information for the Access Control module). 
 
- 📄 **[Essesntial Playbook sample](https://mydogjack.github.io/samples/cohesion/EssentialsPlaybook_SAMPLE.pdf)**
+ 📄 **[Essesntials Playbook sample](https://mydogjack.github.io/samples/cohesion/EssentialsPlaybook_SAMPLE.pdf)**
 
  📄 **[Access Control Playbook sample](https://mydogjack.github.io/samples/cohesion/AccessControlPlaybook_SAMPLE.pdf)**
 
