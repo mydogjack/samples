@@ -68,7 +68,7 @@ Another type of deliverable I created was designed to describe the value proposi
 
 
 ## Video Samples
-Below you'll find of examples of tutorial videos I have created. For each video, I wrote the script with input from Product Management, captured the screens using Adobe Captivate, recorded the audio, and then edited and produced the output as HTML5 so it could be embedded in a hosted online help system. 
+Below you'll find examples of tutorial videos I have created. For each video, I wrote the script with input from Product Management, captured the screens using Adobe Captivate, recorded the audio, and then edited and produced the output as HTML5 so it could be embedded in a hosted online help system. 
 
 ### Messaging Module on the Web and on Apple Videos
 These videos cover the same topic (starting a conversation using the Messaging module), but one was produced for the web app help system and the other was produced for the Apple (iPhone) help system. 
