@@ -68,15 +68,16 @@ Another type of deliverable I created was designed to describe the value proposi
 
 
 ## Video Samples
-Below you'll find a couple of examples of tutorial videos I have created. Both of these videos cover the same topic (starting a conversation using the PK Messaging module), but one was produced for the web app help system and the other was produced for the Apple (iPhone) help system. 
+Below you'll find of examples of tutorial videos I have created. For each video, I wrote the script with input from Product Management, captured the screens using Adobe Captivate, recorded the audio, and then edited and produced the output as HTML5 so it could be embedded in a hosted online help system. 
 
-For each video, I wrote the script with input from Product Management, captured the screens using Adobe Captivate, recorded the audio, and then edited and produced the output as HTML5 so it could be embedded in our help system. 
+### Messaging Module on the Web and on Apple Videos
+These videos cover the same topic (starting a conversation using the Messaging module), but one was produced for the web app help system and the other was produced for the Apple (iPhone) help system. 
 
  📺 **[Web App Video Sample](https://mydogjack.github.io/samples/pkmsg_1startconvo/)**
 
  📺 **[Apple App Video Sample](https://mydogjack.github.io/samples/apple_pkmsg_startconvo/)**
 
-### NoteWriter on Android Videos
-Here is a video sample for the NoteWriter module on Android devices.
+### NoteWriter on Android Video
+Below is a video sample for the NoteWriter module on Android devices.
 
  📺 **[NoteWriter on Android - Tour](https://mydogjack.github.io/samples/android_nw_tour/)**
