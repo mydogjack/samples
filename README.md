@@ -15,7 +15,7 @@ Below are some samples of topics I've been resposible for authoring. The majorit
 
 Jump to: 
 
-[End User Help Topic (healthcare IT product)](#end-user-help-topic-healthcare-it-product) | [Administrator Help Topic (healthcare IT product)](#administrator-help-topic-healthcare-it-product) | [Quick Reference Documents (healthcare IT product)](#quick-reference-documents-healthcare-it-product) | [End User Guide (smart building integration product)](#end-user-guide-smart-building-integration-product) | [Internal Process Playbook (smart building integration product)](#internal-process-playbook-smart-building-integration-product)
+[🔽 End User Help Topic (healthcare IT product)](#end-user-help-topic-healthcare-it-product) | [🔽 Administrator Help Topic (healthcare IT product)](#administrator-help-topic-healthcare-it-product) | [Quick Reference Documents (healthcare IT product)](#quick-reference-documents-healthcare-it-product) | [End User Guide (smart building integration product)](#end-user-guide-smart-building-integration-product) | [Internal Process Playbook (smart building integration product)](#internal-process-playbook-smart-building-integration-product)
 
 [🔽 End User Help Topic (healthcare IT product)](#end-user-help-topic-healthcare-it-product) 
 [🔽 Administrator Help Topic (healthcare IT product)](#administrator-help-topic-healthcare-it-product)
