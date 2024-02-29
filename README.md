@@ -56,7 +56,7 @@ Another type of deliverable I helped create came out of end user's desire to hav
 
 
 ### End User Guide (smart building integration product)
-This user guide was created to describe a a product that integrates with systems inside a smart building. Using the product, tenants could call an elevator, gain access to areas where they have permissions, control their local temperature, and more.
+This user guide was created to describe a product that integrates with systems inside a smart building. Using the product, tenants could call an elevator, gain access to areas where they have permissions, control their local temperature, and more.
 To create this guide, I designed a reusable template, and incorporated both web-based and mobile functionality. Two other variations of this guide were created for additional roles with more access and control over administering the system.  
 
  📄 **[Tenant User Guide sample](https://mydogjack.github.io/samples/cohesion/QuickStartGuide_Tenant.pdf)**
