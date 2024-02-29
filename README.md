@@ -38,7 +38,7 @@ I've included this topic because I feel it is a good example of a complicated co
  📄 **[Admin Help sample](https://mydogjack.github.io/samples/AdminTopicSample/)**
 
 ### Quick Reference Documents (healthcare IT product)
-Another type of deliverable I helped create came out of end user's desire to have a printable document with details all on one page. These are referred to as Quick Reference Cards. These documents are intended to provide enough information on one page for a user to complete a task. These were produced for the Web app, Apple app, and Android app. Below are examples of a quick reference for each platform that describes a clinical note creating module (known as NoteWriter). I've also included some Quick References for other clinical modules and workflows. I created all of these from the Documentation team's standard blank template.
+Another type of deliverable I helped create came out of end user's desire to have a printable document with details all on one page. These are referred to as Quick Reference Cards. These documents are intended to provide enough information on one page for a user to complete a task. These were produced for the Web app, Apple app, and Android app. Below are examples of a quick reference for each platform that describes a clinical documentation module (known as NoteWriter). I've also included some Quick References for other clinical modules and workflows. I created all of these from the Documentation team's standard blank template.
 
  📄 **[Clinical Notes on the Web App - Quick Reference](https://mydogjack.github.io/samples/qrc/notewriter_ref_card.pdf)**
 
@@ -78,6 +78,6 @@ These videos cover the same topic (starting a conversation using the Messaging m
  📺 **[Apple App Video Sample](https://mydogjack.github.io/samples/apple_pkmsg_startconvo/)**
 
 ### NoteWriter on Android Video
-Below is a video sample for the NoteWriter module on Android devices.
+Below is a video sample for the NoteWriter module on Android devices. NoteWriter allowed physicians to create clinical documentation to add to a patient's EHR. 
 
  📺 **[NoteWriter on Android - Tour](https://mydogjack.github.io/samples/android_nw_tour/)**
